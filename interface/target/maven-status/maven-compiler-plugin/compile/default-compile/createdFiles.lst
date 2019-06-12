@@ -1,0 +1,3 @@
+com\study\dubbo\domain\Contact.class
+com\study\dubbo\domain\Users.class
+com\study\dubbo\service\ContactService.class

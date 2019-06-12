@@ -1,0 +1,3 @@
+com\study\dubbo\mapper\ContactMapper.class
+com\study\dubbo\service\impl\ContactServiceImpl.class
+com\study\dubbo\ProviderApplication.class
